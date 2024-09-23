@@ -7,8 +7,11 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
 # For this implementation, we will utilize four AWS services:
 
 Amazon API Gateway
+
 AWS Lambda
+
 Amazon SQS
+
 Amazon SES
 
 
