@@ -27,5 +27,9 @@ Amazon SES
 <img width="1440" alt="Screenshot 2024-09-24 at 12 47 46 AM" src="https://github.com/user-attachments/assets/e947745f-e799-4ce0-a297-6aabd2f088a1">
 <img width="1438" alt="Screenshot 2024-09-24 at 12 54 58 AM" src="https://github.com/user-attachments/assets/faefe7ca-6eb2-4727-9621-9d6bf384b439">
 <img width="1426" alt="Screenshot 2024-09-24 at 12 53 43 AM" src="https://github.com/user-attachments/assets/d9d49bae-a350-4f28-b947-4c83835fd3de">
+<img width="1433" alt="Screenshot 2024-09-24 at 1 04 06 AM" src="https://github.com/user-attachments/assets/5fe2646f-1b06-4be4-b31e-7bccab140164">
+<img width="1440" alt="Screenshot 2024-09-24 at 1 05 34 AM" src="https://github.com/user-attachments/assets/59edfc06-7cdd-48f5-b175-4d6222948989">
+
+
 
   
